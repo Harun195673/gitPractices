@@ -6,7 +6,7 @@ public class HelloTeam {
         System.out.println("Änderung 2");
         String a = "";
 
-        String one = b;
 
+        String one = a;
     }
 }
